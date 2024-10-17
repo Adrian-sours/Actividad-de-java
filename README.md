@@ -30,12 +30,12 @@ class HelloWorld {
        
         //Decimal
         float decimal;
-        System.out.println("El rango de un float es 1.4 negativo 045 a 3.4e positivo 038");
+        System.out.println("El rango de un float es 1.4e-045 a 3.4e+038");
         Float decimalObject;
        
        
         double decimal2;
-        System.out.println("El rango de un double es 4.9e negativo 324 a 1.8e positivo 308");
+        System.out.println("El rango de un double es 4.9e-324 a 1.8e+308");
         Double decimal2Object;
        
        
